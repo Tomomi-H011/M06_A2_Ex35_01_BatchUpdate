@@ -6,7 +6,7 @@
 * Author: Tomomi Hobara
 * Description: This program shows a dialog box to connect to a database and creates a table on the database.
                 Then, it updates the table with 1000 rows of random numbers through a batch update and individual updates.
-                At the end, the elapsed times for the two update processes are displayed in the text area for a comparison. 
+                At the end, the elapsed times for the two update processes are displayed in the text area for comparison. 
 * Variables: 
     - txtStatus: Text object for displaying the status of updates.
     - taResult: TextArea for displaying the execution result.
